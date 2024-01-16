@@ -1,0 +1,4 @@
+pywavelets
+matplotlib
+scipy
+click
